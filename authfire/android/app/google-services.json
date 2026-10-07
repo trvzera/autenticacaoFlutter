@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "391687212811",
+    "project_id": "firecomflutter",
+    "storage_bucket": "firecomflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391687212811:android:6242ae12601a887d169c0e",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391687212811-lj6va3hg604citnjseo5m9tmhpi4gq06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnSPvH4ft1QMCl3h6LGluv4--lxIeCXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391687212811-lj6va3hg604citnjseo5m9tmhpi4gq06.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391687212811-d0s6kid8l0g0jfbb7o040g2q7r8skuf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
